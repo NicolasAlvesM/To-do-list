@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    border:none;
+}
+body{
+    background-color:#e0e0e0;
+}
+.todo{
+    border-radius:8px;
+    display:flex;
+    margin:150px auto 0;
+    flex-direction:column;  
+    align-items: center;
+    width:380px;
+    background-color:#A1A1A1;
+    padding:20px;
+}
+.input-block{
+    width:100%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+.input{
+    box-sizing:border-box;
+    padding-left:10px;
+}
+input{
+    height:30px;
+    width:100%;
+    margin:2px 0;
+}
+input + input{
+    margin-left:3px;
+}
+input[type='date']{
+    width:105%;
+}
+input[type='submit']{
+    border-radius:8px;
+    color:white;
+    background-color:#2EA8A7;
+}

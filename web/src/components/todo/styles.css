@@ -1,0 +1,39 @@
+button{
+    border: none;
+    background:none;
+    display: flex;
+    align-items: center;
+}
+img{
+    width:20px;
+    height:20px;
+}
+.list{
+    border-radius:8px;
+    padding:10px 5px;
+    margin-top:25px;
+    width:360px;
+    background-color:#00000033;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+span{
+    max-width:250px;
+    word-wrap: break-word;
+    font-size:20px;
+    font-family: sans-serif;
+}
+p{
+    font-size:0.8rem;
+    color: #00000077;
+}
+.check{
+    width:20px;
+    height:20px;
+    margin-right:10px;
+}
+.list:focus-within{
+    background-color:white;
+    color:blueviolet;
+}
