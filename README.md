@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [JavaScript](https://www.javascript.com/)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
-
+* [Axios](https://github.com/axios/axios)
