@@ -23,7 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   > $ cd server
   > ##### Instalando as dependências do projeto.
   > $ yarn # ou npm install
-
   > ##### Inicie a API
   > $ yarn start # ou npm start
 
