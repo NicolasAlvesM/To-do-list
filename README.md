@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
 ### Executando
 
- @ ##### API
-  $ cd server
+ > ##### API
+ > $ cd server
   ###### Instalando as dependências do projeto.
   $ yarn # ou npm install
 
