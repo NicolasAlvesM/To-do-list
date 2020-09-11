@@ -13,6 +13,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [CSS](https://www.w3schools.com/css/)
 * [Axios](https://github.com/axios/axios)
 
+## Screenshots
+![screenshot1](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img1.png)
+![screenshot2](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img2.png)
+
 ## Executando a aplicação
 ### Pré-requisitos
 - É necessário possuir o Node.js instalado no computador
