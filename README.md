@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Pré-requisitos
 - É necessário possuir o Node.js instalado no computador
 - Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
-### Executando
+### Executando 
 
   #### API
   > $ cd server
