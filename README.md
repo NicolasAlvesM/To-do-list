@@ -4,11 +4,11 @@ um simples to do list criado usando ReactJS, NodeJS e MongoDB, projeto feito com
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-*[Node](https://nodejs.org/en/)
-*[React](https://reactjs.org/)
-*[Express](https://expressjs.com/)
-*[Mongoose](https://mongoosejs.com/)
-*[JavaScript](https://www.javascript.com/)
-*[HTML](https://www.w3schools.com/html/)
-*[CSS](https://www.w3schools.com/css/)
+* [Node](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/)
+* [Mongoose](https://mongoosejs.com/)
+* [JavaScript](https://www.javascript.com/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
 
