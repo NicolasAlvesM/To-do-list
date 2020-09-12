@@ -24,16 +24,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Executando  
 
   #### API
-  > $ cd server
-  > ##### Instalando as dependências do projeto.
-  > $ yarn # ou npm install
-  > ##### Inicie a API
-  > $ yarn start # ou npm start
+  ```
+   $ cd server
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a API
+   $ yarn start # ou npm start
+  ```
 
   #### Aplicação web
-  > $ cd web
-  > ##### Instalando as dependências do projeto.
-  > $ yarn # ou npm install
-  > ##### Inicie a aplicação web
-  > $ yarn start # ou npm start
+  ```
+   $ cd web
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a aplicação web
+   $ yarn start # ou npm start
+  ```
 
