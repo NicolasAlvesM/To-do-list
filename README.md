@@ -19,13 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![screenshot1](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img1.png)
 ![screenshot2](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img2.png)
 
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200412_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200430_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200437_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200445_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200449_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200500_Expo.jpg" height="500"/>
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200504_Expo.jpg" height="500"/>
+<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200412_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200430_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200437_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200445_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200449_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200500_Expo.jpg" height="500"/><img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200504_Expo.jpg" height="500"/>
 
 ## Executando a aplicação
 ### Pré-requisitos
