@@ -2,6 +2,10 @@
     padding:0;
     margin:0;
     border:none;
+    box-sizing: border-box;
+}
+.up-block button{
+    width:60px;
 }
 body{
     background-color:#e0e0e0;
@@ -19,7 +23,7 @@ body{
 .input-block{
     width:100%;
     display: flex;
-    flex-direction:row;
+    flex-direction:column;
     align-items: center;
 }
 .input{
@@ -31,14 +35,29 @@ input{
     width:100%;
     margin:2px 0;
 }
-input + input{
-    margin-left:3px;
-}
 input[type='date']{
-    width:105%;
+    width:100%;
 }
-input[type='submit']{
+input[type='time']{
+    width:100%;
+}
+.todo input[type='submit'],button{
     border-radius:8px;
     color:white;
     background-color:#2EA8A7;
+}
+@media (min-width:1100px){
+    .input-block{
+        flex-direction:row;
+    } 
+    input[type='date']{
+        width:105%;
+        margin-left: 0;
+    }
+    input[type='time']{
+        width:60%;
+    }
+    .todo input + input{
+        margin-left:3px;
+    }
 }

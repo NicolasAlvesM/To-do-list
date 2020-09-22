@@ -1,12 +1,17 @@
-button{
+.list .todo-item button{
     border: none;
     background:none;
     display: flex;
     align-items: center;
 }
-img{
+.list .todo-item img{
     width:20px;
     height:20px;
+}
+.todo-item{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
 }
 .list{
     border-radius:8px;
@@ -14,17 +19,14 @@ img{
     margin-top:25px;
     width:360px;
     background-color:#00000033;
-    display:flex;
-    justify-content:space-between;
-    align-items: center;
 }
-span{
+.list .todo-item span{
     max-width:250px;
     word-wrap: break-word;
     font-size:20px;
     font-family: sans-serif;
 }
-p{
+.list .todo-item p{
     font-size:0.8rem;
     color: #00000077;
 }
@@ -33,7 +35,40 @@ p{
     height:20px;
     margin-right:10px;
 }
-.list:focus-within{
-    background-color:white;
-    color:blueviolet;
+.updateInput{
+    border:none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    cursor: default;
+    padding-left: 30px;
+    
 }
+.up-block{
+    display: flex;
+    flex-direction: column;
+}
+#teste{
+    display: flex;
+}
+#teste button{
+    width: 100%;
+    margin-left:5px;
+}
+#teste input[type='date']{
+    margin-left:3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

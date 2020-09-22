@@ -4,9 +4,9 @@ import api from '../services/api'
 import './styles.css'
 function ToDoList(){
     const [allList,setAllList]=useState([])
-    const [todo,setTodo]=useState([])
-    const [time,setTime]=useState([])
-    const [day,setDay]=useState([])
+    const [todo,setTodo]=useState('')
+    const [time,setTime]=useState('')
+    const [day,setDay]=useState('')
     useEffect(()=>{
         api.get("/").then(response=>{
             const {data}=response
@@ -14,8 +14,16 @@ function ToDoList(){
         })
     },[])
     async function createNewToDo(){
-        await api.post('/',{todo,time,day})     
-        setAllList([...allList,{todo,time,day}])
+        const {data}=await api.post('/',{todo,time,day})
+        setAllList([...allList,data])
+        setTodo('')
+        setDay('')
+        setTime('')
+    }
+    async function updateToDoList(id,data){
+        const response=await api.put(`/${id}`,data)
+        const updatedArray=allList.map(item=>item._id==id ? response.data:item)
+        setAllList(updatedArray)
     }
     return(
         <div className='container'>
@@ -32,10 +40,10 @@ function ToDoList(){
                     return(
                     <ToDo 
                         key={item._id}
+                        upFunc={updateToDoList}
                         id={item._id}
                         todo={item.todo} 
-                        time={item.time}
-                        date={item.day}
+                        date={item.date}
                     />)
                 })}
                 </div>
