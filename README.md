@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Screenshots
 ![screenshot1](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img1.png)
 ![screenshot2](https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/img2.png)
-<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200412_Expo.jpg" heigth="400"/>
+<img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200412_Expo.jpg" height="400"/>
 <img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200430_Expo.jpg" height="400"/>
 <img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200437_Expo.jpg" height="400"/>
 <img src="https://github.com/NicolasMorenoAlves/To-do-list/blob/master/screenshots/Screenshot_20200922-200445_Expo.jpg" height="400"/>
