@@ -1,0 +1,46 @@
+import {StyleSheet} from 'react-native'
+const styles=StyleSheet.create({
+    container:{
+        backgroundColor:'#d0d0d0',
+        flex:1,
+        justifyContent:'space-between',
+        paddingTop:20
+    },
+    button:{
+        borderRadius:8,
+    },
+    inputs:{
+        alignItems:'flex-end',
+    },
+    textInput:{
+        flex:1,
+        padding:0,
+        paddingLeft:20,
+        height:60,
+        borderBottomWidth:5,
+    },
+    createAToDo:{
+        alignItems:'flex-end',
+        flexDirection:'row',
+        backgroundColor:'#fff'
+    },
+    buttonsPicker:{
+        marginRight:10
+    },
+    inputButton:{
+        backgroundColor:'#333',
+        borderRadius:40,
+        margin:15,
+        width:50,
+        height:50,
+        alignItems:'center',
+        justifyContent:'center',
+        position:'absolute',
+        bottom:65,
+        left:'80%',
+    },
+    todoContainer:{
+        paddingHorizontal:10
+    }
+})
+export default styles
