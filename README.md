@@ -6,6 +6,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [Node](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
+* [React Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
 * [Express](https://expressjs.com/)
 * [Mongoose](https://mongoosejs.com/)
 * [JavaScript](https://www.javascript.com/)
