@@ -1,5 +1,5 @@
 # To-do-list
-um simples to do list criado usando ReactJS, NodeJS e MongoDB, projeto feito com o objetivo de aprender mais sobre essas tecnologias trabalhando em conjunto.
+um simples to do list criado usando ReactJS,React Native, NodeJS e MongoDB, projeto feito com o objetivo de aprender mais sobre essas tecnologias trabalhando em conjunto. Nesse simples projeto não havia necessidade de utilizar Node ou MongoDB,poderia ser utilizado apenas a memoria em cache dos dispositivos com localstorage na web e o asyncstorage no mobile, porém utilizei apenas por uma questão de aprendizado.
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
