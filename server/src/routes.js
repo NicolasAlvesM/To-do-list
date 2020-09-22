@@ -4,5 +4,6 @@ const routes=express.Router()
 const toDoController=new ToDoController()
 routes.get('/',toDoController.index)
 routes.post('/',toDoController.create)
-routes.delete('/',toDoController.delete)
+routes.delete('/:id',toDoController.delete)
+routes.put('/:id',toDoController.update)
 module.exports = routes
