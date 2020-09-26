@@ -14,7 +14,6 @@ module.exports =  class ToDoController{
         return res.json(todoCreated) 
         }
         if(time&&day){
-        console.log(day+' cu '+time)
         const todoCreated=await Todos.create({todo,date})
         return res.json(todoCreated)
         }
