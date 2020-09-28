@@ -44,4 +44,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    ##### Inicie a aplicação web
    $ yarn start # ou npm start
   ```
+  
+  #### Aplicação mobile
+  ```
+   $ cd mobile
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a aplicação web
+   $ yarn start # ou npm start
+   <br /><br /> O Expo será aberto, basta digitalizar o qrcode no terminal ou na página que será aberta.
+   Você pode installar o aplicativo Expo para testar no celular
+  ```
 
